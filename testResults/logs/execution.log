@@ -1,0 +1,14 @@
+[2023-06-27T09:10:18.228] [INFO] execution - Clicked on safari
+[2023-06-27T09:10:19.508] [INFO] execution - Clicked on navigation_bar
+[2023-06-27T09:10:21.799] [INFO] execution - Entered text Make My Trip in the element search_box
+[2023-06-27T09:10:23.853] [INFO] execution - Clicked on search_result
+[2023-06-27T09:10:26.896] [INFO] execution - Clicked on close_registration
+[2023-06-27T09:10:29.267] [INFO] execution - Waited for - 2
+[2023-06-27T09:10:31.813] [INFO] execution - Clicked on flight
+[2023-06-27T09:10:33.975] [INFO] execution - Clicked on mob_fromCity
+[2023-06-27T09:10:39.422] [INFO] execution - Entered text bengaluru in the element enterCity_name
+[2023-06-27T09:10:41.889] [INFO] execution - Clicked on bengaluru
+[2023-06-27T09:10:44.045] [INFO] execution - Clicked on mob_toCity
+[2023-06-27T09:10:49.636] [INFO] execution - Entered text hyderabad in the element enterCity_name
+[2023-06-27T09:10:52.517] [INFO] execution - Clicked on hyderabad
+[2023-06-27T09:10:54.272] [INFO] execution - Clicked on deptDate

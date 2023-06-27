@@ -1,0 +1,58 @@
+{
+  "rgba_colors": {
+    "ui_clr_dark_pink": "rgba(214, 80, 95, 1)",
+    "ui_clr_dark_orange": "rgba(253,126,20,1)",
+    "ui_clr_red": "rgba(195, 0, 21, 1)",
+    "ui_clr_dark_grey": "rgba(74, 74, 74, 1)",
+    "ui_clr_lite_grey": "rgba(110, 112, 129, 1)",
+    "ui_clr_lite_orange": "rgba(255, 131, 0, 1)",
+    "ui_clr_blue": "rgba(50, 66, 159, 1)",
+    "ui_clr_white": "rgba(255, 255, 255, 1)",
+    "ui_clr_lite_purple": "rgba(197, 203, 234, 1)",
+    "ui_clr_light_green": "rgba(58,146,104,1)",
+    "ui_clr_grey": "rgba(145,147,170,0.8)",
+    "ui_clr_stroke_blue": "rgb(50, 66, 159)",
+    "ui_clr_stroke_red": "rgb(195, 0, 21)",
+    "ui_clr_nav_color_blue": "rgb(7, 49, 161)",
+    "ui_clr_fill_light_green": "rgb(58, 146, 104)",
+    "ui_clr_sky_blue": "rgba(97, 218, 251, 1)",
+    "ui_clr_sky_black": "rgba(40, 44, 52, 1)",
+    "ui_clr_primary_blue": "rgba(0, 120, 163, 1)",
+    "ui_clr_secondry_blue": "rgba(1, 89, 121, 1)",
+    "ui_clr_black": "rgba(33, 33, 33, 1)"
+  },
+  "font_weight": {
+    "bold_font": "700",
+    "regular_font": "400"
+  },
+  "font_family": {
+    "ui_font_roboto": "Roboto",
+    "multiple_font": "-apple-system, system-ui, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif",
+    "multiple_fonts": "Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif"
+  },
+  "font_size": {
+    "12px": "12px",
+    "14px": "14px",
+    "16px": "16px",
+    "18px": "18px",
+    "60px": "60px",
+    "24px": "24px"
+  },
+  "font_line_height": {
+    "12px": "12px",
+    "14px": "14px",
+    "16px": "16px",
+    "18px": "18px",
+    "24px": "24px"
+  },
+  "element_constants": {
+    "input_box_maxlength": "11",
+    "help_aria_expanded_false": "false",
+    "aria-haspopup_true": "true",
+    "date_label": "Date:",
+    "time_label": "Time:",
+    "react_header_text": "React",
+    "pageTitle": "Hollywood Park & SoFi Stadium | Home",
+    "testingOverview_headerText": "Testing Overview"
+  }
+}
