@@ -1,5 +1,5 @@
 const { Then } = require('@cucumber/cucumber');
-const  elementActions = require('./../utils/mobile-actions/mob-index')
+const  elementActions = require('../utils/mobile-actions/index')
 
 Then(/^I verify "([^"]*)" is displyed/, { timeout: 2 * 60000 }, async function (locatorName) {
   await elementActions.verifyElementIsDisplayed(locatorName)
