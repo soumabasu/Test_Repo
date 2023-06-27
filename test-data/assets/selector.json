@@ -1,0 +1,13 @@
+{
+    "css_selector": {
+        "Order_now_selector": ".dmHomeSection1 a",
+        "Contact_us_selector": ".dmNewParagraph.u_1678255621",
+        "Nationwide_shipping_selector": "span:nth-of-type(2) > b > span",
+        "Childcare_tab_selector": ".dmUDNavigationItem_010101904996.unifiednav__item > .nav-item-text",
+        "Pennyjuice_logo_selector": "img[alt='PENNYJUICE OF AMERICA - Logo']",
+        "home_tab_selector": ".currentPage.dmUDNavigationItem_00.unifiednav__item > .nav-item-text",
+        "facebook_feed_selector": ".u_1177842430",
+        "twitter_feed_selector": ".u_1546373387",
+        "facebook_link_selector": ".dm-social-icons-facebook"
+    }
+}

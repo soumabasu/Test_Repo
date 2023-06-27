@@ -1,0 +1,16 @@
+{
+  "ABOUT": "About",
+  "ABOUT_ID": "about",
+  "HELP": "Help",
+  "LOGO": "Tempo Logo",
+  "LOGOUT": "Logout",
+  "RELEASE_NOTES": "Release Notes",
+  "RELEASE_VERSION": "Version 1.0.0",
+  "MANUFACTURER_TITLE": "Manufacturer",
+  "TITLE_PART1": "Tempo Insights",
+  "TITLE_PART2": "Failed to Load",
+  "CONTENT_PART1": "Unable to load Tempo Insights",
+  "CONTENT_PART2": ". If this problem persists, please contact your network administrator.",
+  "ERROR_CODE": "Error Code",
+  "GENERIC_MSG": "There was an error processing your request"
+}
